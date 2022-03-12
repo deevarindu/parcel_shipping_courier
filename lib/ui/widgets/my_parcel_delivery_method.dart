@@ -106,7 +106,7 @@ class _MyParcelDeliveryMethodState extends State<MyParcelDeliveryMethod> {
               ),
               Text(
                 'Name',
-                style: Theme.of(context).textTheme.headline5,
+                style: Theme.of(context).textTheme.headline6,
               ),
             ],
           ),
@@ -123,7 +123,7 @@ class _MyParcelDeliveryMethodState extends State<MyParcelDeliveryMethod> {
               ),
               Text(
                 'Email',
-                style: Theme.of(context).textTheme.headline5,
+                style: Theme.of(context).textTheme.headline6,
               ),
             ],
           ),
@@ -140,7 +140,7 @@ class _MyParcelDeliveryMethodState extends State<MyParcelDeliveryMethod> {
               ),
               Text(
                 'Phone number',
-                style: Theme.of(context).textTheme.headline5,
+                style: Theme.of(context).textTheme.headline6,
               ),
             ],
           ),
@@ -157,7 +157,7 @@ class _MyParcelDeliveryMethodState extends State<MyParcelDeliveryMethod> {
               ),
               Text(
                 'Address',
-                style: Theme.of(context).textTheme.headline5,
+                style: Theme.of(context).textTheme.headline6,
               ),
             ],
           ),
