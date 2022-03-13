@@ -14,7 +14,7 @@ class App extends StatelessWidget {
       title: 'Parcel Shipping Courier App',
       theme: ParcelAppTheme.lightTheme,
       home: Scaffold(
-        body: SendParcelCheckoutScreen(),
+        body: ParcelCenterScreen(),
         bottomNavigationBar: MyBottomNavigationBar(),
       ),
     );
